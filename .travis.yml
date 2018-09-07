@@ -3,7 +3,7 @@ sudo: false
 language: python
 
 install:
-  - pip install mkdocs  --user
+  - pip install mkdocs
 
 script:
   - make
