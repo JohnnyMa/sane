@@ -13,10 +13,46 @@ SAN is designed to map unambiguously to a hash map (a.k.a hash table).
 SAN should be easy to parse into data structures in a wide variety of languages.
 
 
+
+## Specs
+
+* [v1.0.0 (draft)](versions/v1.0.0)
+
+
+
+## Issues and discussions
+
+<a href="https://github.com/astrocorp42/san/issues" target="_blank" rel="noopener noreferrer">On GitHub</a>
+
+
+## Why
+
+Prior to SAN, the software we built at [AstroCorp](https://astrocorp.net) used a variety of
+configuration languages from full programming languages such as JavaScript to complete data structure
+languages such as TOML or JSON. The problem is that each of these languages have serious flaws which are
+not acceptable to build software for the next 42 years on top of.
+
+Because of this, we decided to create our own configuration language designed to be written and read
+by humans for at least the next 42 years.
+
+That being said you will easily notice that SAN found great inspiration from languages like TOML,
+HCL, JSON.
+
+Here are some of the killer features:
+
+* Human and parsing friendly
+* Comments
+* Libraries should implement a way to preserve comments across a deserialization/serialization round
+* Pure data
+* Less is more
+* Easy to use, event without syntax coloration
+
+
+
 ## Example
 
 ```san
-// This is a SAN document
+# This is a SAN document
 
 /*
 This is a
@@ -39,7 +75,7 @@ database = {
 }
 
 servers = {
-  // Indentation (only spaces) is allowed but not required
+  # Indentation (only spaces) is allowed but not required
   alpha = {
     ip = "10.0.0.1"
     dc = "eqdc10"
@@ -59,42 +95,11 @@ hosts = [
 ]
 ```
 
-## Specs
-
-* [Latest (v1.0.0, draft)](versions/latest)
-
-
-
-## Issues and discussions
-
-[On GitHub](https://github.com/astrocorp42/san/issues)
-
-
-## Why
-
-Prior to SAN, the software we built at [AstroCorp](https://astrocorp.net) used a variety of
-configuration languages from full programming languages such as JavaScript to complete data structure
-languages such as TOML or JSON. The problem is that each of these languages have serious flaws which are
-not acceptable to build software for the next 10 years on top of.
-
-Because of this, we decided to create our own configuration language designed to be written and read
-by humans for at least the next decade.
-
-Here are some of the killer features:
-
-* Human and parsing friendly
-* Comments
-* Libraries should implement a way to preserve comments across a deserialization/serialization round
-* Pure data
-* Less is more
-
-
 ## SAN for
 
 * Simple And Nedded
 * Simple And Neat
 * Simple And New
-* Sylvain Astral Notation
 * Simple And Noble
-* Simple And Nice
-* Sane And 
+* Sane And Nice
+* Sylvain's Astral Notation
