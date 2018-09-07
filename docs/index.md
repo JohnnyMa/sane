@@ -13,9 +13,16 @@ SAN is designed to map unambiguously to a hash map (a.k.a hash table).
 SAN should be easy to parse into data structures in a wide variety of languages.
 
 
-## Spec
+## Specs
 
 * [Latest (v1.0.0)](versions/latest)
+
+
+
+## Issues and dicussions
+
+[On GitHub](https://github.com/astrocorp42/san/issues)
+
 
 ## SAN for ?
 
