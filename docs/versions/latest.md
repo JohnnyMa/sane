@@ -1,4 +1,4 @@
-# v1.0.0 (latest)
+# v1.0.0 (latest, draft)
 
 
 ## Table of content
@@ -113,6 +113,7 @@ values are invalid.
 
 ```san
 key = // INVALID
+"value" // INVALID
 ```
 
 
