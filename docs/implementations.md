@@ -7,7 +7,6 @@ supports in your README.
 
 
 * [Go](#go)
-* [JavaScript](#javascript)
 
 ---------------------------------
 
@@ -15,9 +14,3 @@ supports in your README.
 ## Go
 
 * [https://github.com/phasersec/san-go](https://github.com/phasersec/san-go)
-
-
-
-## JavaScript
-
-* [https://github.com/phasersec/san-js](https://github.com/phasersec/san-js)
