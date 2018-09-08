@@ -4,6 +4,4 @@
 
 (pronounce `/seɪn/`, like `sane`)
 
-The Simple And Needed configuration format.
-
-[Website](https://astrocorp.net/san)
+[The Simple And Needed configuration format](https://astrocorp.net/san)
