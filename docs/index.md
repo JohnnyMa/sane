@@ -41,8 +41,8 @@ HCL, JSON.
 Here are some of the killer features:
 
 * Safe
+* Comments are parsed as any other values and can be written by programs
 * Human and parser friendly
-* Comments
 * Libraries should implement a way to preserve comments across a deserialization/serialization round
 * Pure data
 * Less is more
