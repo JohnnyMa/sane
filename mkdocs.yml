@@ -10,7 +10,7 @@ google_analytics:
 
 theme:
   name: null
-  custom_dir: '.mkdocs-material/material'
+  custom_dir: 'themes/mkdocs-material/material'
   language: en
   feature:
   palette:
