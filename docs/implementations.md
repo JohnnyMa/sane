@@ -7,6 +7,7 @@ supports in your README.
 
 
 * [Go](#go)
+* [Vim](#vim)
 
 ---------------------------------
 
@@ -14,3 +15,9 @@ supports in your README.
 ## Go
 
 * [https://github.com/phasersec/san-go](https://github.com/phasersec/san-go)
+
+
+
+## Vim
+
+* [https://github.com/z0mbie42/vim-san](https://github.com/z0mbie42/vim-san)

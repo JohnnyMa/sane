@@ -55,12 +55,6 @@ Here are some of the killer features:
 ```san
 # This is a SAN document
 
-/*
-This is a
-multiline
-comment
-*/
-
 title = "SAN Example"
 
 creator = {
@@ -99,8 +93,8 @@ hosts = [
 ## SAN for
 
 * Simple And Nedded
-* Simple And Neat
+* Sane And Neat
 * Simple And New
 * Simple And Noble
-* Sane And Nice
+* Simple And Nice
 * Sylvain's Astral Notation
