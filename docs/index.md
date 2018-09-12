@@ -2,7 +2,7 @@
 
 (pronounce `/seɪn/`, like `sane`)
 
-The Simple And Nedded configuration format
+The Simple And Needed configuration format
 
 By <a href="https://kerkour.com" target="_blank" rel="noopener noreferrer">Sylvain Kerkour</a>
 
@@ -91,7 +91,7 @@ hosts = [
 
 ## SAN for
 
-* Simple And Nedded
+* Simple And Needed
 * Sane And Neat
 * Safe And Nice
 * Simple And New
