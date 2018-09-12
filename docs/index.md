@@ -8,7 +8,7 @@ By <a href="https://kerkour.com" target="_blank" rel="noopener noreferrer">Sylva
 
 ## Goals
 
-SAN aims to be a simple open data serialization format that's easy to read due to obvious semantics.
+SAN aims to be a simple open configuration format that's easy to read due to obvious semantics.
 SAN is designed to map unambiguously to a map (a.k.a hash table).
 SAN should be easy to parse into data structures in a wide variety of languages.
 
@@ -30,10 +30,10 @@ SAN should be easy to parse into data structures in a wide variety of languages.
 Prior to SAN, the software we built at [AstroCorp](https://astrocorp.net) used a variety of
 configuration languages from full programming languages such as JavaScript to complete data structure
 languages such as TOML or JSON. The problem is that each of these languages have serious flaws which are
-not acceptable to build software for the next 42 years on top of.
+not acceptable to build software for the future.
 
-Because of this, we decided to create our own configuration language designed to be written and read
-by humans for at least the next 42 years.
+Because of this, we decided to create our own configuration format designed to be written and read
+by humans.
 
 That being said you will easily notice that SAN found great inspiration from languages like TOML,
 HCL, JSON.
@@ -42,10 +42,9 @@ Here are some of the killer features:
 
 * Safe
 * Comments are parsed as any other values and can be written by programs
-* Human and parser friendly
-* Libraries should implement a way to preserve comments across a deserialization/serialization round
-* Pure data
 * Less is more
+* Human and parser friendly
+* Pure data (no templating)
 * Easy to use, event without syntax coloration
 
 
@@ -94,7 +93,7 @@ hosts = [
 
 * Simple And Nedded
 * Sane And Neat
+* Safe And Nice
 * Simple And New
 * Simple And Noble
-* Simple And Nice
 * Sylvain's Astral Notation
