@@ -45,7 +45,7 @@ Here are some of the killer features:
 * Less is more
 * Human and parser friendly
 * Pure data (no templating)
-* Easy to use, event without syntax coloration
+* Easy to use, even without syntax coloration
 
 
 

@@ -7,6 +7,8 @@ TOML is the primary inspiration for SAN but there is some differences:
 
 * Lists MUST be homogenous
 * Maps (Tables) and Lists (Arrays) are cleaner / not mixed.
+* Types are obvious (in TOML, is type of `[[my_conf]]` really obvious ?).
+* Duplicated keys are not allowed: SAN is typo safe unlike TOML
 
 
 
@@ -15,6 +17,7 @@ TOML is the primary inspiration for SAN but there is some differences:
 * Comments are allowed
 * No `null`
 * Less ambigous
+* Duplicate keys are NOT allowed
 
 
 ## SAN vs YAML
@@ -22,3 +25,4 @@ TOML is the primary inspiration for SAN but there is some differences:
 * Cleaner
 * Safer
 * Better
+* Not indentation based
