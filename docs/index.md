@@ -8,9 +8,10 @@ By <a href="https://kerkour.com" target="_blank" rel="noopener noreferrer">Sylva
 
 ## Goals
 
-SAN aims to be a simple open configuration format that's easy to read due to obvious semantics.
-SAN is designed to map unambiguously to a map (a.k.a hash table).
-SAN should be easy to parse into data structures in a wide variety of languages.
+* SAN aims to be a simple open configuration format that's easy to read due to obvious semantics.
+* SAN is designed to map unambiguously to a map (a.k.a hash table).
+* SAN should be easy to parse into data structures in a wide variety of languages.
+* SAN is designed to be **human to machine** not machine to machine (YAML, JSON...)
 
 
 
