@@ -16,7 +16,7 @@ TOML is the primary inspiration for SAN but there is some differences:
 
 * Comments are allowed
 * No `null`
-* Less ambigous
+* Less ambiguous
 * Duplicate keys are NOT allowed
 
 
