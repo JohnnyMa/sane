@@ -4,10 +4,6 @@ repo_url: https://github.com/astrocorp42/san
 
 site_dir: dist
 
-google_analytics:
-  - 'UA-123569541-1'
-  - 'auto'
-
 theme:
   name: null
   custom_dir: 'themes/mkdocs-material/material'
