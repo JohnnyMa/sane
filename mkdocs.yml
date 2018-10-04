@@ -1,6 +1,6 @@
 site_name: San
-site_url: https://astrocorp.net
-repo_url: https://github.com/astrocorp42/san
+site_url: https://opensource.bloom.sh
+repo_url: https://github.com/bloom42/san
 
 site_dir: dist
 
