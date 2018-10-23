@@ -3,7 +3,7 @@
 
 ## SAN vs TOML
 
-TOML is the primary inspiration for SAN but there is some differences:
+TOML is the primary inspiration for SAN, but there are some differences:
 
 * Lists MUST be homogenous
 * Maps (Tables) and Lists (Arrays) are cleaner / not mixed.
