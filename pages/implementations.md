@@ -14,10 +14,10 @@ supports in your README.
 
 ## Go
 
-* [https://github.com/phasersec/san-go](https://github.com/phasersec/san-go)
+* [https://github.com/phasersec/sane-go](https://github.com/phasersec/sane-go)
 
 
 
 ## Vim
 
-* [https://github.com/z0mbie42/vim-san](https://github.com/z0mbie42/vim-san)
+* [https://github.com/z0mbie42/vim-sane](https://github.com/z0mbie42/vim-sane)

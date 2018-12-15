@@ -1,6 +1,4 @@
-# SAN
-
-(pronounce `/seɪn/`, like `sane`)
+# SANE
 
 The Simple And Needed configuration format
 
@@ -8,10 +6,10 @@ By <a href="https://kerkour.com" target="_blank" rel="noopener noreferrer">Sylva
 
 ## Goals
 
-* SAN aims to be a simple open configuration format that's easy to read due to obvious semantics.
-* SAN is designed to map unambiguously to a map (a.k.a hash table).
-* SAN should be easy to parse into data structures in a wide variety of languages.
-* SAN is designed to be **human to machine** not machine to machine (YAML, JSON...)
+* SANE aims to be a simple open configuration format that's easy to read due to obvious semantics.
+* SANE is designed to map unambiguously to a map (a.k.a hash table).
+* SANE should be easy to parse into data structures in a wide variety of languages.
+* SANE is designed to be **human to machine** not machine to machine (YAML, JSON...)
 
 
 
@@ -23,12 +21,12 @@ By <a href="https://kerkour.com" target="_blank" rel="noopener noreferrer">Sylva
 
 ## Issues and discussions
 
-<a href="https://github.com/astrocorp42/san/issues" target="_blank" rel="noopener noreferrer">On GitHub</a>
+<a href="https://github.com/bloom42/sane/issues" target="_blank" rel="noopener noreferrer">On GitHub</a>
 
 
 ## Why
 
-Prior to SAN, the software we built at [AstroCorp](https://astrocorp.net) used a variety of
+Prior to SANE, the software we built at [Bloom](https://bloom.sh) used a variety of
 configuration languages from full programming languages such as JavaScript to complete data structure
 languages such as TOML or JSON. The problem is that each of these languages have serious flaws which are
 not acceptable to build software for the future.
@@ -36,7 +34,7 @@ not acceptable to build software for the future.
 Because of this, we decided to create our own configuration format designed to be written and read
 by humans.
 
-That being said you will easily notice that SAN found great inspiration from languages like TOML,
+That being said you will easily notice that SANE found great inspiration from languages like TOML,
 HCL, JSON.
 
 Here are some of the killer features:
@@ -52,10 +50,10 @@ Here are some of the killer features:
 
 ## Example
 
-```san
-# This is a SAN document
+```sane
+# This is a SANE document
 
-title = "SAN Example"
+title = "SANE Example"
 
 creator = {
   name = "Sylvain Kerkour"
@@ -90,11 +88,10 @@ hosts = [
 ]
 ```
 
-## SAN for
+## SANE for
 
-* Simple And Needed
-* Sane And Neat
-* Safe And Nice
-* Simple And New
-* Simple And Noble
-* Sylvain's Astral Notation
+* Simple And NEeded
+* Sane And NEat
+* Safe And NicE
+* Simple And NEw
+* Simple And NoblE

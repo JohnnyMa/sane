@@ -1,12 +1,8 @@
-site_name: San
-site_url: https://opensource.bloom.sh
-repo_url: https://github.com/bloom42/san
-
-site_dir: dist
+docs_dir: pages
 
 theme:
   name: null
-  custom_dir: 'themes/mkdocs-material/material'
+  custom_dir: '../themes/mkdocs-material/material'
   language: en
   feature:
   palette:
@@ -15,12 +11,19 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/images/favicon.png
+  favicon: /favicon.ico
   logo:
     icon: "\uE80C"
+  base_url: '/rocket/'
+
+site_name: SANE
+site_url: https://opensource.bloom.sh/sane/
+repo_url: https://github.com/bloom42/sane
+site_dir: ../../dist/sane
 
 nav:
   - index.md
   - implementations.md
-  - san-vs.md
-  - versions/v1.0.0.md
+  - sane-vs.md
+  - Versions:
+    - versions/v1.0.0.md
