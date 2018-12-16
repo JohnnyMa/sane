@@ -1,6 +1,6 @@
 # SANE
 
-The Simple And Needed configuration format
+The Simple And NEeded configuration format
 
 By <a href="https://kerkour.com" target="_blank" rel="noopener noreferrer">Sylvain Kerkour</a>
 
