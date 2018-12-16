@@ -20,4 +20,4 @@ supports in your README.
 
 ## Vim
 
-* [https://github.com/z0mbie42/vim-sane](https://github.com/z0mbie42/vim-sane)
+* [https://github.com/z0mbie42/sane-vim](https://github.com/z0mbie42/sane-vim)
