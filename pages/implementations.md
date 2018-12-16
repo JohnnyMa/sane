@@ -14,7 +14,7 @@ supports in your README.
 
 ## Go
 
-* [https://github.com/phasersec/sane-go](https://github.com/phasersec/sane-go)
+* [https://github.com/bloom42/sane-go](https://github.com/bloom42/sane-go)
 
 
 
