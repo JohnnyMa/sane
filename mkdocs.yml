@@ -17,7 +17,7 @@ theme:
   base_url: '/rocket/'
 
 site_name: SANE
-site_url: https://code.bloom.sh/sane/
+site_url: https://opensource.bloom.sh/sane/
 repo_url: https://github.com/bloom42/sane
 site_dir: ../../dist/sane
 
