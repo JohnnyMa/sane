@@ -7,9 +7,9 @@ supports in your README.
 
 
 * [Go](#go)
-<!-- * [JavaScript](#javascript)
+<!-- * [JavaScript](#javascript) -->
 * [Rust](#rust)
-* [Visual Studio Code](#visual-studio-code) -->
+<!-- * [Visual Studio Code](#visual-studio-code) -->
 * [Vim](#vim)
 
 ---------------------------------
@@ -23,13 +23,13 @@ supports in your README.
 <!-- # JavaScript
 
 * [https://github.com/bloom42/sane-js](https://github.com/bloom42/sane-js)
-
+ -->
 
 # Rust
 
 * [https://github.com/bloom42/sane-rs](https://github.com/bloom42/sane-rs)
 
-
+<!--
 # Visual Studio Code
 
 * [https://github.com/bloom42/sane-vscode ](https://github.com/bloom42/sane-vscode) -->
