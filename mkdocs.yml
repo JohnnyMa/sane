@@ -14,7 +14,7 @@ theme:
   favicon: /favicon.ico
   logo:
     icon: "\uE80C"
-  base_url: '/rocket/'
+  base_url: '/sane/'
 
 site_name: SANE
 site_url: https://opensource.bloom.sh/sane/
