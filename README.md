@@ -1,6 +1,13 @@
-# SANE
+<p align="center">
+  <h3 align="center">Sane</h3>
+  <p align="center"><a href="https://opensource.bloom.sh/sane">The Simple And NEeded configuration format</a></p>
+</p>
 
-[The Simple And NEeded configuration format](https://opensource.bloom.sh/sane)
+--------
+
+## Contributing
+
+See [https://opensource.bloom.sh/contributing](https://opensource.bloom.sh/contributing)
 
 
 ## License
