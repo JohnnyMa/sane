@@ -21,7 +21,7 @@ By <a href="https://kerkour.com" target="_blank" rel="noopener noreferrer">Sylva
 
 ## Issues and discussions
 
-<a href="https://github.com/bloom42/sane/issues" target="_blank" rel="noopener noreferrer">On GitHub</a>
+<a href="https://github.com/bloom42/sane/issues" target="_blank" rel="noopener">On GitHub</a>
 
 
 ## Why
