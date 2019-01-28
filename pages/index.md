@@ -15,7 +15,7 @@ By <a href="https://kerkour.com" target="_blank" rel="noopener noreferrer">Sylva
 
 ## Specs
 
-* [v1.0.0 (draft)](versions/v1.0.0)
+* [v1.0.0](versions/v1.0.0)
 
 
 
