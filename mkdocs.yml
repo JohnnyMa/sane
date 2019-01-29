@@ -19,6 +19,7 @@ theme:
 site_name: SANE
 site_url: https://opensource.bloom.sh/sane/
 repo_url: https://github.com/bloom42/sane
+edit_uri: https://github.com/bloom42/sane/edit/master/pages/
 site_dir: ../../dist/sane
 
 nav:

@@ -10,7 +10,7 @@ TOML is the primary inspiration for SANE, but there are some differences:
 * Maps (Tables) and Lists (Arrays) are cleaner / not mixed.
 * Types are obvious (in TOML, is the type of `[[my_conf]]` really obvious ?).
 * Duplicated keys are not allowed: SANE is typo safe unlike TOML
-
+* SANE supports tooling like auto formatting (think gofmt).
 
 
 ## SANE vs JSON

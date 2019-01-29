@@ -6,11 +6,11 @@ By <a href="https://kerkour.com" target="_blank" rel="noopener noreferrer">Sylva
 
 ## Goals
 
-* SANE aims to be a simple open configuration format that's easy to read due to obvious semantics.
-* SANE is designed to map unambiguously to a map (a.k.a hash table).
+* SANE aims to be a simple open configuration format that's easy to read due to obvious and consistent semantics.
+* SANE is designed to map unambiguously to a map (a.k.a hash table, a.k.a dictionary).
 * SANE should be easy to parse into data structures in a wide variety of languages.
 * SANE is designed to be **human to machine** not machine to machine (YAML, JSON...)
-
+* SANE, as a modern format, is designed to support tooling like auto formatting / linting.
 
 
 ## Specs
