@@ -11,6 +11,8 @@ TOML is the primary inspiration for SANE, but there are some differences:
 * Types are obvious (in TOML, are the types of `[[my_conf]]` and `[my_other_conf]` really obvious ?).
 * Duplicated keys are not allowed: SANE is typo safe unlike TOML.
 * SANE supports tooling like auto formatting (think gofmt) for better consistency and thus readability.
+* SANE does not support DateTime contrary to TOML.
+* SANE use only spaces as whitespaces character (VS spaces + tabs for TOML) which save from a lot of headache.
 
 
 ## SANE vs JSON
