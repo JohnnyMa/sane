@@ -45,7 +45,7 @@ Here are some of the killer features:
 * Human and parser friendly
 * Pure data (no templating)
 * Easy to use, even without syntax coloration
-
+* Sane
 
 
 ## Example
@@ -95,3 +95,4 @@ hosts = [
 * Safe And NicE
 * Simple And NEw
 * Simple And NoblE
+* Sane's Appreciated by Nearly Everyone
